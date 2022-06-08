@@ -14,7 +14,7 @@ Fst: population substructure correction
 
 paf_file: a file contains the allele frequencies of a population and the mutation rates (both paternal and maternal) of the markers. See examples in the folder of AlleleFreq
 
-ped_file: a pedigree file, which follows the same format as GATK Pedigree format, except that the last column was named as ¡°Pop¡± (i.e., population) but was not in simulation. See examples in the folder of CommonRelationships
+ped_file: a pedigree file, which follows the same format as GATK Pedigree format, except that the last column was named as Â¡Â°PopÂ¡Â± (i.e., population) but was not in simulation. See examples in the folder of CommonRelationships
 
 output_file: the simulated pedigrees
 
